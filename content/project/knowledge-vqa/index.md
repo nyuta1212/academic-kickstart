@@ -4,7 +4,7 @@
 title: "Knowledge VQA"
 summary: ""
 authors: []
-tags: ["deep-learning", "knowledge"]
+tags: ["deep-learning", "knowledge", "visual question answering"]
 categories: []
 date: 2020-03-10T15:40:43+09:00
 
@@ -39,3 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Visual question answering (VQA) with knowledge is a task that requires knowledge to answer questions on images/video. This additional requirement of knowledge poses an interesting challenge on top of the classic VQA tasks. Specifically, a system needs to explore external knowledge sources to answer the questions correctly, as well as understanding the visual content. 
+
+We created [a dedicated dataset for our knowledge VQA task](https://knowit-vqa.github.io) and made it open to public, so that everyone can enjoy our new task. We have also publish several papers on this task. 
+
+- Noa Garcia, Mayu Otani, Chenhui Chu, and Yuta Nakashima (2019). [KnowIT VQA: Answering knowledge-based questions about videos](https://arxiv.org/abs/1910.10706). Proc. AAAI Conference on Artificial Intelligence.
+- 
