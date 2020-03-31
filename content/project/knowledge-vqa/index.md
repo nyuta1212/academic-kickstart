@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/noagarcia/knowit-rock"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -44,5 +44,11 @@ Visual question answering (VQA) with knowledge is a task that requires knowledge
 
 We created [a dedicated dataset for our knowledge VQA task](https://knowit-vqa.github.io) and made it open to public, so that everyone can enjoy our new task. We have also publish several papers on this task. 
 
-- Noa Garcia, Mayu Otani, Chenhui Chu, and Yuta Nakashima (2019). [KnowIT VQA: Answering knowledge-based questions about videos](https://arxiv.org/abs/1910.10706). Proc. AAAI Conference on Artificial Intelligence.
-- 
+
+### Publications
+
+- Noa Garcia, Mayu Otani, Chenhui Chu, and Yuta Nakashima (2019). [KnowIT VQA: Answering knowledge-based questions about videos](https://arxiv.org/abs/1910.10706). Proc. AAAI Conference on Artificial Intelligence, Feb. 2020.
+- Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, and Haruo Takemura (2020). [BERT representations for video question answering](http://openaccess.thecvf.com/content_WACV_2020/html/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.html). Proc.~IEEE Winter Conference on Applications of Computer Vision.
+- Noa Garcia, Chenhui Chu, Mayu Otani, and Yuta Nakashima (2019). Video meets knowledge in visual question answering. MIRU.
+- Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, and Haruo Takemura (2019).
+Video question answering with BERT. MIRU.

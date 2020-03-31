@@ -1,7 +1,7 @@
 ---
 title: "Free-viewpoint AR human-motion reenactment based on a single RGB-D video stream"
 date: 2014-07-01
-publishDate: 2020-03-11T00:06:08.592220Z
+publishDate: 2020-03-30T23:29:45.712879Z
 authors: ["Fabian Lorenzo Dayrit", "Yuta Nakashima", "Tomokazu Sato", "Naokazu Yokoya"]
 publication_types: ["1"]
 abstract: "When observing a person (an actor) performing or demonstrating some activity for the purpose of learning the action, it is best for the viewers to be present at the same time and place as the actor. Otherwise, a video must be recorded. However, conventional video only provides two-dimensional (2D) motion, which lacks the original third dimension of motion. In the presence of some ambiguity, it may be hard for the viewer to comprehend the action with only two dimensions, making it harder to learn the action. This paper proposes an augmented reality system to reenact such actions at any time the viewer wants, in order to aid comprehension of 3D motion. In the proposed system, a user first captures the actor's motion and appearance, using a single RGB-D camera. Upon a viewer's request, our system displays the motion from an arbitrary viewpoint using a rough 3D model of the subject, made up of cylinders, and selecting the most appropriate textures based on the viewpoint and the subject's pose. We evaluate the usefulness of the system and the quality of the displayed images by user study."

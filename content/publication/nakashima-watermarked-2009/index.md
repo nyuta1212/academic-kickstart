@@ -1,7 +1,7 @@
 ---
 title: "Watermarked movie soundtrack finds the position of the camcorder in a theater"
 date: 2009-04-01
-publishDate: 2020-03-11T00:06:08.614877Z
+publishDate: 2020-03-30T23:29:45.732440Z
 authors: ["Yuta Nakashima", "Ryuki Tachibana", "Noboru Babaguchi"]
 publication_types: ["2"]
 abstract: "In recent years, the problem of camcorder piracy in theaters has become more serious due to technical advances in camcorders. In this paper, as a new deterrent to camcorder piracy, we propose a system for estimating the recording position from which a camcorder recording is made. The system is based on spread-spectrum audio watermarking for the multichannel movie soundtrack. It utilizes a stochastic model of the detection strength, which is calculated in the watermark detection process. Our experimental results show that the system estimates recording positions in an actual theater with a mean estimation error of 0.44 m. The results of our MUSHRA subjective listening tests show the method does not significantly spoil the subjective acoustic quality of the soundtrack. These results indicate that the proposed system is applicable for practical uses."

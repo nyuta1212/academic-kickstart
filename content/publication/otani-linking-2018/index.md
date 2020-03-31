@@ -1,7 +1,7 @@
 ---
 title: "Linking videos and languages: Representations and their applications"
 date: 2018-05-01
-publishDate: 2020-03-11T00:06:08.548036Z
+publishDate: 2020-03-30T23:29:45.682471Z
 authors: ["Mayu Otani", "Yuta Nakashima", "Esa Rahtu", "Janne Heikkilä", "Naokazu Yokoya"]
 publication_types: ["4"]
 abstract: "Mimicking the human ability to understand visual data (images or videos) is a long-standing goal of computer vision. To achieve visual content understanding in a computer, many recent works attempt to connect visual and natural language data including object labels and descriptions. This attempt is important not only for visual understanding but also for broad applications such as content-based visual data retrieval and automatic description generation to help visually impaired people. The goal of this paper is to develop cross-modal representations, which enable us to associate videos with natural language. We explorer two directions for constructing cross-modal representations: hand-crafted representations and data-driven representation learning. The experiments demonstrate the proposed representations can be applied to a wide range of practical applications including query-focused video summarization and content-based video retrieval with natural language queries."

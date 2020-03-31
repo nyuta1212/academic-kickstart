@@ -1,7 +1,7 @@
 ---
 title: "Digital Diorama: Real-time adaptive visualization of public spaces"
 date: 2009-10-01
-publishDate: 2020-03-11T00:06:08.608757Z
+publishDate: 2020-03-30T23:29:45.727245Z
 authors: ["Takumi Takehara", "Yuta Nakashima", "Naoko Nitta", "Noboru Babaguchi"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "映像特徴に基づく撮影者が意図した人物被写体の推定"
 date: 2009-08-01
-publishDate: 2020-03-11T00:06:08.609697Z
+publishDate: 2020-03-30T23:29:45.727907Z
 authors: ["上柿 普史", "中島 悠太", "馬場口 登"]
 publication_types: ["4"]
 abstract: ""

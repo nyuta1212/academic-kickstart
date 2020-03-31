@@ -1,7 +1,7 @@
 ---
 title: "Real-time privacy protection system for social videos using intentionally-captured persons detection"
 date: 2013-07-01
-publishDate: 2020-03-11T00:06:08.595931Z
+publishDate: 2020-03-30T23:29:45.715552Z
 authors: ["Tatsuya Koyama", "Yuta Nakashima", "Noboru Babaguchi"]
 publication_types: ["1"]
 abstract: "Most social videos, which are uploaded and shared through social networking services (SNSs), e.g., YouTube and Facebook, contain not only intentionally-captured persons (ICPs) but also non-ICPs who are unexpectedly framed in, such as passers-by. Sharing such social videos may infringe on the non-ICPs' privacy but not on the ICPs' in many cases; however, existing systems for video privacy protection simply obscure persons without distinguishing ICPs from non-ICPs. This naive obscuration may spoil the videos. Since this is a critical problem especially for social videos, in this paper, we propose a novel system for automatically generating privacy-protected videos in real-time. Our system localizes ICPs and non-ICPs using ICP detection leveraging the spatial and temporal consistency of ICPs/non-ICPs and obscures the non-ICPs. We have experimentally evaluated the performance of ICP detection and demonstrated the applicability of our system."

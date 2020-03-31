@@ -1,7 +1,7 @@
 ---
 title: "音楽に対する電子透かしを用いた位置推定"
 date: 2006-09-01
-publishDate: 2020-03-11T00:06:08.611969Z
+publishDate: 2020-03-30T23:29:45.729649Z
 authors: ["中島 悠太", "立花 隆輝", "西村 雅史", "馬場口 登"]
 publication_types: ["4"]
 abstract: ""

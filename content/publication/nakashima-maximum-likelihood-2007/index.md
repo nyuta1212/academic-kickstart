@@ -1,7 +1,7 @@
 ---
 title: "Maximum-likelihood estimation of recording position based on audio watermarking"
 date: 2007-11-01
-publishDate: 2020-03-11T00:06:08.614102Z
+publishDate: 2020-03-30T23:29:45.731722Z
 authors: ["Yuta Nakashima", "Ryuki Tachibana", "Noboru Babaguchi"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Evaluating protection capability for visual privacy information"
 date: 2016-02-01
-publishDate: 2020-03-11T00:06:08.576924Z
+publishDate: 2020-03-30T23:29:45.700459Z
 authors: ["Yuta Nakashima", "Tomoaki Ikeno", "Noboru Babaguchi"]
 publication_types: ["2"]
 abstract: "One way to prevent privacy intrusion is by blurring or blocking out facial images using image processing. However, this technique's effectiveness depends on viewers' familiarity with the subjects as well as on the subjects' conspicuousness."

@@ -1,7 +1,7 @@
 ---
 title: "単一のRGB-Dカメラを用いた非剛体物体の3次元形状復元"
 date: 2015-09-01
-publishDate: 2020-03-11T00:06:08.578830Z
+publishDate: 2020-03-30T23:29:45.701903Z
 authors: ["武原 光", "中島 悠太", "佐藤 智和", "横矢 直和"]
 publication_types: ["4"]
 abstract: ""
